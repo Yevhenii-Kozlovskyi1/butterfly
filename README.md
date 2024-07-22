@@ -1,0 +1,1 @@
+The project is about tiny micro services architecture of investment analyses. 
